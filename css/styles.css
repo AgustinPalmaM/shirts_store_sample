@@ -45,7 +45,7 @@ img {
 
 .contenedor {
     max-width: 120rem;
-    margin: 0 1rem;
+    margin: 0 auto;
 }
 
 h1,
